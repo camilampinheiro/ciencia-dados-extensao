@@ -5,10 +5,6 @@
 - Ricardo Temporal – 2310292
 - Alvaro Araujo – 2510552
 
-## Instituição
-Universidade de Fortaleza - UNIFOR  
-Disciplina: Ciência de Dados
-
 ## Descrição
 Este repositório foi criado para organizar os materiais do curso introdutório de Python para Ciência de Dados, desenvolvido como atividade extensionista da disciplina de Ciência de Dados da Universidade de Fortaleza (UNIFOR).
 
