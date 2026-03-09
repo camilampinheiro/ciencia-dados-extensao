@@ -64,8 +64,8 @@ O repositório foi organizado por módulos, de forma a facilitar a separação d
 
 ## Equipe C
 - Camila Martins – 2310286
-- Ricardo Temporal –
-- Alvaro Araujo –
+- Ricardo Temporal – 2310292
+- Alvaro Araujo – 2510552
 
 ## Instituição
 Universidade de Fortaleza - UNIFOR  
