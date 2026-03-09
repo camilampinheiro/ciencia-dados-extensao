@@ -1,5 +1,10 @@
 # Curso Introdutório de Python para Ciência de Dados
 
+## Equipe C
+- Camila Martins – 2310286
+- Ricardo Temporal – 2310292
+- Alvaro Araujo – 2510552
+
 ## Descrição
 Este repositório foi criado para organizar os materiais do curso introdutório de Python para Ciência de Dados, desenvolvido como atividade extensionista da disciplina de Ciência de Dados da Universidade de Fortaleza (UNIFOR).
 
@@ -61,12 +66,3 @@ O repositório foi organizado por módulos, de forma a facilitar a separação d
 
 - `materiais-complementares/`
   - materiais de apoio, links e referências complementares
-
-## Equipe C
-- Camila Martins – 2310286
-- Ricardo Temporal – 2310292
-- Alvaro Araujo – 2510552
-
-## Instituição
-Universidade de Fortaleza - UNIFOR  
-Disciplina: Ciência de Dados
