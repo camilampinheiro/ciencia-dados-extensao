@@ -60,9 +60,27 @@ O repositório foi organizado por módulos, de forma a facilitar a separação d
   - `exercicios/`: listas de exercícios
   - `datasets/`: bases de dados utilizadas
 
-- `modulo-2-manipulacao-dados/`
-- `modulo-3-visualizacao-dados/`
-- `modulo-4-eda/`
-
 - `materiais-complementares/`
   - materiais de apoio, links e referências complementares
+
+## Como executar os materiais do módulo 1
+
+### Slides
+Os slides do Módulo 1 estão disponíveis em formato PDF na pasta:
+`modulo-1-fundamentos-python/slides/`
+
+### Notebook
+O notebook do Módulo 1 pode ser executado de duas formas:
+- pelo Google Colab, fazendo upload do arquivo `.ipynb`;
+- localmente, utilizando Jupyter Notebook.
+
+Arquivo:
+`modulo-1-fundamentos-python/notebook/Modulo1.ipynb`
+
+### Dataset
+O dataset utilizado no módulo está disponível em:
+`modulo-1-fundamentos-python/datasets/dataset-exemplo-modulo1.csv`
+
+### Exercícios
+A lista de exercícios e o gabarito estão disponíveis em:
+`modulo-1-fundamentos-python/exercicios/`
