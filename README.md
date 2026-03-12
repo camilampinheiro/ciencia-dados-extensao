@@ -78,7 +78,6 @@ Arquivo:
 `modulo-1-fundamentos-python/notebook/Modulo1.ipynb`
 
 ### Dataset
-O dataset utilizado no módulo está disponível em:
 `modulo-1-fundamentos-python/datasets/dataset-exemplo-modulo1.csv`
 
 ### Exercícios
