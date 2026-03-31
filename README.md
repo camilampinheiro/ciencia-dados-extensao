@@ -50,36 +50,11 @@ Aplicação integrada dos conteúdos em uma pequena análise com dataset simples
 ## Pré-requisitos definidos
 O curso não exigirá conhecimento prévio em programação, por se tratar de uma formação introdutória. Como pré-requisitos, espera-se apenas que os participantes possuam noções básicas de informática, saibam utilizar computador, navegador de internet e manipular arquivos e pastas. Também será necessário ter acesso à internet e a um ambiente para execução dos códigos, como Google Colab, Jupyter Notebook ou outra plataforma similar.
 
-## Estrutura do repositório
-O repositório foi organizado por módulos, de forma a facilitar a separação dos materiais didáticos e a progressão do curso. Cada módulo possui subpastas específicas para slides, notebooks, exercícios e datasets.
-
-### Organização das pastas
-- `modulo-1-fundamentos-python/`
-  - `slides/`: apresentações do módulo
-  - `notebooks/`: notebooks práticos
-  - `exercicios/`: listas de exercícios
-  - `datasets/`: bases de dados utilizadas
-
-- `materiais-complementares/`
-  - materiais de apoio, links e referências complementares
-
-## Como executar os materiais do módulo 1
-
-### Slides
-Os slides do Módulo 1 estão disponíveis em formato PDF na pasta:
-`modulo-1-fundamentos-python/slides/`
-
 ### Notebook
 O notebook do Módulo 1 pode ser executado de duas formas:
 - pelo Google Colab, fazendo upload do arquivo `.ipynb`;
 - localmente, utilizando Jupyter Notebook.
 
-Arquivo:
-`modulo-1-fundamentos-python/notebook/Modulo1.ipynb`
-
-### Dataset
-`modulo-1-fundamentos-python/datasets/dataset-exemplo-modulo1.csv`
-
 ### Exercícios
 A lista de exercícios e o gabarito estão disponíveis em:
-`modulo-1-fundamentos-python/exercicios/`
+`exercicios/`
