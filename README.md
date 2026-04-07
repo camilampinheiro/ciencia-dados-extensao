@@ -51,7 +51,7 @@ Aplicação integrada dos conteúdos em uma pequena análise com dataset simples
 O curso não exigirá conhecimento prévio em programação, por se tratar de uma formação introdutória. Como pré-requisitos, espera-se apenas que os participantes possuam noções básicas de informática, saibam utilizar computador, navegador de internet e manipular arquivos e pastas. Também será necessário ter acesso à internet e a um ambiente para execução dos códigos, como Google Colab, Jupyter Notebook ou outra plataforma similar.
 
 ### Notebook
-O notebook do Módulo 1 pode ser executado de duas formas:
+Os notebooks dos módulos podem ser executados de duas formas:
 - pelo Google Colab, fazendo upload do arquivo `.ipynb`;
 - localmente, utilizando Jupyter Notebook.
 
