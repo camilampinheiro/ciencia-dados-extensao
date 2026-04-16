@@ -17,7 +17,7 @@
 
 ## Sobre o projeto
 
-Este repositório é o material completo do curso introdutório de Python para Ciência de Dados, desenvolvido como **atividade extensionista** da disciplina T326.
+Este repositório é o material completo do curso introdutório de Python para Ciência de Dados, desenvolvido como **atividade extensionista**.
 
 O curso foi planejado para democratizar o acesso ao conhecimento em programação e análise de dados, voltado a estudantes do ensino médio, técnico ou superior, profissionais em transição de carreira e qualquer pessoa interessada em começar na área.
 
